@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ef2329c1db9cf11eb9a518637cb3d2be.js"
+  "/precache-manifest.39c33b7e9eb32ae339ed7ed13311ddb1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-youtube"});
